@@ -1,4 +1,5 @@
-An absolute bare-bones web app.
+# Ultimate Tic-Tac-Toe
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Projeto de um jogo copiado do projeto em [dart.academy](https://dart.academy/web-games-with-dart-ultimate-tic-tac-toe/) com o objetivo de familiarizar com a linguagem.
+
+- [ ] Melhorar projeto para aprimorar conhecimento na linguagem
